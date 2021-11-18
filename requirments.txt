@@ -1,0 +1,5 @@
+tensorflow-gpu==1.11.0
+sklearn
+matplotlib
+js2py
+prettytable
